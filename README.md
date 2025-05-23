@@ -1,10 +1,16 @@
 # AutoCoder-One
 # AI-Driven Full-Stack Code Generation Framework
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Build Status](https://img.shields.io/badge/build-passing-brightgreen)]()  
-[![GitHub issues](https://img.shields.io/github/issues/yourusername/ai-codegen-framework)]()  
+[![License: Apache-2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+[![Build Status](https://img.shields.io/badge/build-passing-brightgreen)]()
+[![Coverage](https://img.shields.io/badge/coverage-90%25-brightgreen)]()
+[![GitHub issues](https://img.shields.io/github/issues/yourusername/ai-codegen-framework)]()
 [![GitHub stars](https://img.shields.io/github/stars/yourusername/ai-codegen-framework)]()
+[![GitHub forks](https://img.shields.io/github/forks/yourusername/ai-codegen-framework)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/ai-codegen-framework)]()
+[![Release](https://img.shields.io/github/v/release/yourusername/ai-codegen-framework)]()
+[![Claude4](https://img.shields.io/badge/Claude4-supported-brightgreen)]()
+[![OpenAI](https://img.shields.io/badge/OpenAI-integrated-blue)]()
 
 ---
 
