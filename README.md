@@ -1,25 +1,24 @@
 # AutoCoder-One
 # AI-Driven Full-Stack Code Generation Framework
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)  
+[![License: MIT](https://img.shields.io/badge/License-Apache 2.0-blue.svg)](LICENSE)  
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen)]()  
 [![GitHub issues](https://img.shields.io/github/issues/yourusername/ai-codegen-framework)]()  
 [![GitHub stars](https://img.shields.io/github/stars/yourusername/ai-codegen-framework)]()
 
 ---
 
-## Project Overview
+## 📘 Project Overview
 
-**AI-Driven Full-Stack Code Generation Framework** is an advanced software development platform leveraging state-of-the-art AI models (including Claude4 and customizable local models) to generate backend business logic, API interfaces, and frontend UI components automatically from existing database schemas and high-level business requirements.
+**AutoCoder-One** is an advanced AI-driven software development framework that automatically generates full-stack applications from existing database schemas and high-level business requirements. It integrates state-of-the-art large language models (Claude4, OpenAI, local customizable models), intelligent schema analysis, and pluggable UI frameworks.
 
-Unlike traditional tools like MyBatis-Plus which provide fixed CRUD scaffolding, this framework features:
+Unlike traditional tools like **MyBatis-Plus**, which only provide rigid CRUD scaffolding, AutoCoder-One enables:
 
-- Dynamic system design integration supporting product- or project-defined workflows and functions.
-- Intelligent schema validation and evolution with user-interactive suggestions or automated schema modification.
-- Multi-model AI support with pluggable backends: cloud-based paid models, free public models, or user-hosted local models.
-- Full-stack code generation including annotated Java Spring Boot + MyBatis backend, microservice modules, and frontend pages with Element-UI, Ant Design, ECharts, or custom imported UI components.
-- Comprehensive auto-generated documentation: REST API specs, deployment guides, and testing plans.
-- Iterative AI-assisted development enabling continuous refinement and feature addition.
+- Product-/project-level business requirement injection.
+- Iterative and refined system design assisted by AI.
+- Schema validation with user-assisted or auto-evolved adjustments.
+- Pluggable multi-model LLMs, including cloud and local deployment.
+- Real-time integration between frontend UI, backend logic, and RESTful APIs.
 
 ---
 
@@ -36,8 +35,6 @@ Unlike traditional tools like MyBatis-Plus which provide fixed CRUD scaffolding,
 ---
 
 ## Architecture Overview
-
-```mermaid
 graph LR
   A[Database Connector]
   B[Requirement Analyzer]
@@ -59,11 +56,15 @@ graph LR
   H --> C
   H --> F
   H --> G
+
+
+## 🧱 Technology Stack
+
 | Layer                | Technology / Framework                    |
 | -------------------- | ----------------------------------------- |
 | Backend Framework    | Java, Spring Boot, MyBatis, Microservices |
 | Frontend Framework   | Vue.js / React, Element-UI, Ant Design    |
-| AI Model Integration | Claude4 API, OpenAI API, Local AI models  |
+| AI Model Integration | Claude4 API, OpenAI API, Local LLM        |
 | Database Support     | MySQL, PostgreSQL, Oracle, SQL Server     |
 | Containerization     | Docker, Kubernetes                        |
 | Messaging Queue      | RabbitMQ, Kafka                           |
@@ -71,3 +72,15 @@ graph LR
 | Security             | OAuth2, JWT, TLS, AES-256 Encryption      |
 | Documentation        | Swagger/OpenAPI, AsciiDoc                 |
 
+
+- ## 📂 License
+
+  Licensed under the [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0).
+
+  ------
+
+  ## 📣 Contribution
+
+  We welcome contributions! Please fork this repository, create a new branch, and submit a pull request. For major changes, open an issue first to discuss what you would like to change.
+
+- 
