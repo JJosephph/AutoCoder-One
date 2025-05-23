@@ -41,29 +41,8 @@ Unlike traditional tools like **MyBatis-Plus**, which only provide rigid CRUD sc
 ---
 
 ## Architecture Overview
-```mermaid
-graph LR
-  A[Database Connector]
-  B[Requirement Analyzer]
-  C[AI Model Manager]
-  D[Code Generation Engine]
-  E[UI Component Manager]
-  F[Validation & Testing Module]
-  G[Documentation Generator]
-  H[User Interface (Dashboard)]
 
-  A --> B
-  B --> C
-  C --> D
-  D --> F
-  D --> G
-  E --> D
-  H --> B
-  H --> E
-  H --> C
-  H --> F
-  H --> G
-```
+![Uploading ChatGPT Image 2025年5月23日 14_47_22.png…]()
 
 ## 🧱 Technology Stack
 
