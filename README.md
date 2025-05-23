@@ -42,7 +42,7 @@ Unlike traditional tools like **MyBatis-Plus**, which only provide rigid CRUD sc
 
 ## Architecture Overview
 
-![Uploading ChatGPT Image 2025年5月23日 14_47_22.png…]()
+![2](https://github.com/user-attachments/assets/0cd7aa26-b5ac-4eb6-87e3-572432000f5f)
 
 ## 🧱 Technology Stack
 
