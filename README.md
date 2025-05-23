@@ -41,6 +41,7 @@ Unlike traditional tools like **MyBatis-Plus**, which only provide rigid CRUD sc
 ---
 
 ## Architecture Overview
+```mermaid
 graph LR
   A[Database Connector]
   B[Requirement Analyzer]
@@ -62,7 +63,7 @@ graph LR
   H --> C
   H --> F
   H --> G
-
+```
 
 ## 🧱 Technology Stack
 
