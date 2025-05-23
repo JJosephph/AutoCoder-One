@@ -1,7 +1,7 @@
 # AutoCoder-One
 # AI-Driven Full-Stack Code Generation Framework
 
-[![License: MIT](https://img.shields.io/badge/License-Apache 2.0-blue.svg)](LICENSE)  
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen)]()  
 [![GitHub issues](https://img.shields.io/github/issues/yourusername/ai-codegen-framework)]()  
 [![GitHub stars](https://img.shields.io/github/stars/yourusername/ai-codegen-framework)]()
